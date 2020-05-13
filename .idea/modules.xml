@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-admin-service/cloud-admin-service.iml" filepath="$PROJECT_DIR$/cloud-admin-service/cloud-admin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-buyer-service/cloud-buyer-service.iml" filepath="$PROJECT_DIR$/cloud-buyer-service/cloud-buyer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-seller-service/cloud-seller-service.iml" filepath="$PROJECT_DIR$/cloud-seller-service/cloud-seller-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-user-service/cloud-user-service.iml" filepath="$PROJECT_DIR$/cloud-user-service/cloud-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emarket.iml" filepath="$PROJECT_DIR$/emarket.iml" />
+    </modules>
+  </component>
+</project>
